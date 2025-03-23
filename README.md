@@ -37,7 +37,9 @@ Select your desired output format (e.g., MP4, MP3).
 
 Converted files will appear in the FFSerial/Out folder.
 
-License
+License:
 This project is open-source. You are free to use, modify, and distribute it.
 
 The majority of the code was written by ChatGPT.
+
+If you have any issues or suggestions, please feel free to contact me at linuxnut453@gmail.com
