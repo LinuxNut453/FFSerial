@@ -1,7 +1,6 @@
-FFSerial
 FFSerial is a simple, cross-platform tool that converts media files one by one from a designated input folder to avoid overloading your system. Perfect for high-quality video conversion!
 
-Features
+Features:
 ✅ Works on Windows, Linux, and macOS
 ✅ Serial conversion (one file at a time, avoiding system overload)
 ✅ Supports multiple formats (MP4, MP3, AVI, etc.)
@@ -12,6 +11,7 @@ Installation:
 Download or clone this repository:
 
 git clone https://github.com/YOUR-USERNAME/FFSerial.git
+
 cd FFSerial
 
 Run the setup script:
