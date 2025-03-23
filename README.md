@@ -7,6 +7,23 @@ Features:
 ✅ Automatic FFmpeg & wget installation (if missing)
 ✅ Easy to use— just drop files in the In folder!
 
+NOTE:
+If linux gives you bak something like 
+
+Detected OS: Linux
+Installing FFmpeg for Linux...
+Reading package lists... Done
+E: Could not get lock /var/lib/apt/lists/lock. It is held by process 8208 (apt-get)
+N: Be aware that removing the lock file is not a solution and may break your system.
+E: Unable to lock directory /var/lib/apt/lists/
+Setup complete! On Windows, finish installing FFmpeg and restart your terminal.
+
+that means an error occurred, and ffmpeg isn't installed. Run 
+
+$ sudo apt install ffmpeg
+
+If that works, after installation is finished, run $ ffmpeg --version
+
 Installation:
 Download or clone this repository:
 
