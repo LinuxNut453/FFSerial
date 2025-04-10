@@ -9,7 +9,7 @@ install_ffmpeg_windows() {
     wget -O ffmpeg.exe "https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.exe"
 
     echo "Running FFmpeg installer..."
-    start ffmpeg.exe
+    sudo start ffmpeg.exe
 
     echo "Complete the installation manually, then restart your terminal."
 }
@@ -21,7 +21,7 @@ install_ffmpeg_linux() {
 
 install_ffmpeg_mac() {
     echo "Installing FFmpeg for macOS..."
-    brew install ffmpeg
+    sudo brew install ffmpeg
 }
 
 # Install FFmpeg based on OS
