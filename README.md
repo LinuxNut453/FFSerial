@@ -9,7 +9,7 @@ Features:
 
 NOTE:
 If linux returns something like 
-
+"""
 Detected OS: Linux
 
 Installing FFmpeg for Linux...
@@ -23,7 +23,7 @@ N: Be aware that removing the lock file is not a solution and may break your sys
 E: Unable to lock directory /var/lib/apt/lists/
 
 Setup complete! On Windows, finish installing FFmpeg and restart your terminal.
-
+"""
 
 that means an error occurred, and ffmpeg isn't installed. Run 
 
