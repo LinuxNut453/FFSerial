@@ -1,0 +1,9 @@
+This project uses FFmpeg, a powerful open-source multimedia framework developed by a dedicated global community. FFmpeg enables recording, converting, streaming, and processing of audio and video content, and forms the core of this tool’s media functionality.
+
+FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later, which you can read at:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+For more information about FFmpeg, its contributors, and its legal standing, visit:
+https://ffmpeg.org/legal.html
+
+I gratefully acknowledge the FFmpeg community for their excellent work which made my project possible.
